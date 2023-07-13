@@ -9,3 +9,8 @@ h1   {
 h2 {
     color: red;
 }
+
+p {
+    text-size-adjust: auto;
+    text-shadow: blueviolet 1px 0 10px;
+}
